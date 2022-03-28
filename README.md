@@ -7,7 +7,7 @@ program take instance of these classes and demonstrate various functionality of 
 objects.
 
 ```cpp
-Class Vehicle {
+class Vehicle {
   private :
     // Price
     // Manufacturer
@@ -20,7 +20,7 @@ Class Vehicle {
     // Display data
 };
 
-Class Car : public Vehicle {
+class Car : public Vehicle {
   private :
     // Color
     // Number Of Seats
