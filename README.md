@@ -47,3 +47,7 @@ Clerk : Name, Age, Gender, WorkLoad, Salary
 Professor : Name, Age, Gender, Dept, CourseLoad, Salary
  ```
  
+## Problem 3
+A plot is broken into different geometric shapes like *Triangle*, *Rectangle* and
+*Circle* of different size of arbitrary number. Provide a mechanism to sum up total
+area covered by these shapes.
