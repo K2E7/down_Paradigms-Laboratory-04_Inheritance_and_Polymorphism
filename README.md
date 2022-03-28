@@ -42,7 +42,7 @@ these Classes should contain below mentioned attributes. Make sure proper class
 hierarchy is designed following the principle of inheritance.
 Provide a mechanism to display the profile/detail of various kind of Object of these
 class.
-```python
+```cpp
 Student : Name, Age, Gender, Dept, Year
 Clerk : Name, Age, Gender, WorkLoad, Salary
 Professor : Name, Age, Gender, Dept, CourseLoad, Salary
