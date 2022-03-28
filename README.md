@@ -2,7 +2,6 @@
 Programming Paradigms Assignment 4
 
 ## Problem 1
-----
 Complete the following classes with suitable data members and methods. In client
 program take instance of these classes and demonstrate various functionality of these
 objects.
