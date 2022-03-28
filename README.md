@@ -9,29 +9,29 @@ objects.
 
 ```
 Class Vehicle {
-private :
-// Price
-// Manufacturer
-public :
-// Default constructor
-// Parametrized constructor
-// Copy constructor
-// Assignment operator
-// Read data
-// Display data
+  private :
+    // Price
+    // Manufacturer
+  public :
+    // Default constructor
+    // Parametrized constructor
+    // Copy constructor
+    // Assignment operator
+    // Read data
+    // Display data
 };
 
 Class Car : public Vehicle {
-private :
-// Color
-// Number Of Seats
-// Model
-public :
-// Default constructor
-// Parametrized constructor
-// Copy constructor
-// Assignment operator
-// Read data
-// Display data
+  private :
+    // Color
+    // Number Of Seats
+    // Model
+  public :
+    // Default constructor
+    // Parametrized constructor
+    // Copy constructor
+    // Assignment operator
+    // Read data
+    // Display data
 };
-```cpp
+```python
