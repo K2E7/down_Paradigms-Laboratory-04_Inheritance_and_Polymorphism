@@ -35,3 +35,16 @@ Class Car : public Vehicle {
     // Display data
 };
 ```
+
+## Problem 2
+Write a program to design Classes for *Student*, *Clerk*, *Professor*. Each of
+these Classes should contain below mentioned attributes. Make sure proper class
+hierarchy is designed following the principle of inheritance.
+Provide a mechanism to display the profile/detail of various kind of Object of these
+class.
+```python
+Student : Name, Age, Gender, Dept, Year
+Clerk : Name, Age, Gender, WorkLoad, Salary
+Professor : Name, Age, Gender, Dept, CourseLoad, Salary
+ ```
+ 
