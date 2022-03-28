@@ -7,7 +7,7 @@ Complete the following classes with suitable data members and methods. In client
 program take instance of these classes and demonstrate various functionality of these
 objects.
 
-```
+```cpp
 Class Vehicle {
   private :
     // Price
@@ -34,4 +34,4 @@ Class Car : public Vehicle {
     // Read data
     // Display data
 };
-```python
+```
